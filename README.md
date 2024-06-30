@@ -1,1 +1,1 @@
-##Booths Algorithm Verilog Implementation
+Booths Algorithm Verilog Implementation
